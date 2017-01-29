@@ -31,7 +31,7 @@ public class ExampleInstrumentedTest {
         assertEquals("cn.jf.app", appContext.getPackageName());
     }
     @Test
-    public void testAdd() throws Exception {
+    public void testAdd2() throws Exception {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
